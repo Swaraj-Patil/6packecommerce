@@ -1,0 +1,116 @@
+.order-details-page {
+    background-color: #fff;
+}
+
+.order-details-container {
+    padding: 5vmax;
+    padding-bottom: 0%;
+}
+
+.order-details-container > h1 {
+    font: 300 3vmax 'Roboto';
+    margin: 4vmax 0;
+    color: tomato;
+}
+
+.order-details-container > p {
+    font: 400 1.8vmax 'Roboto';
+}
+
+.order-details-container-box,
+.order-details-cart-items-container {
+    margin: 2vmax;
+}
+
+.order-details-container-box > div {
+    display: flex;
+    margin: 1vmax 0;
+}
+
+.order-details-container-box > div > p {
+    font: 400 1vmax 'Roboto';
+    color: #000;
+}
+
+.order-details-container-box > div > span {
+    margin: 0.1vmax;
+    font: 100 1vmax 'Roboto';
+    color: #575757;
+}
+
+.order-details-cart-items > p {
+    font: 400 1.8vmax 'Roboto';
+}
+
+.order-details-cart-items {
+    padding: 2vmax 5vmax;
+    border-top: 1px solid rgba(0,0,0,0.164);
+}
+
+.order-details-cart-items-container > div {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+    font: 400 1vmax 'Roboto';
+    margin: 2vmax 0;
+}
+
+.order-details-cart-items-container > div > img {
+    width: 3vmax;
+}
+
+.order-details-cart-items-container > div > a {
+    width: 60%;
+    text-decoration: none;
+    margin: 0.2vmax;
+    color: #575757;
+}
+
+.order-details-cart-items-container > div > span {
+    font: 100 1vmax 'Roboto';
+    color: #5e5e5e;
+}
+
+
+@media screen and (max-width: 600px) {
+
+    .order-details-container > p {
+        font: 400 6vw 'Roboto';
+    }
+
+    .order-details-container-box > div {
+        margin: 6vw 0;
+    }
+
+    .order-details-container-box > div > p {
+        font: 400 4vw 'Roboto';
+    }
+
+    .order-details-container-box > div > span {
+        font: 100 4vw 'Roboto';
+    }
+
+    .order-details-cart-items > p {
+        font: 400 6vw 'Roboto';
+    }
+
+    .order-details-cart-items-container > div {
+        font: 400 4vw 'Roboto';
+        margin: 4vw 0;
+    }
+
+    .order-details-cart-items-container > div > img {
+        width: 10vw;
+    }
+
+    .order-details-cart-items-container > div > a {
+        margin: 2vw;
+        width: 30%;
+    }
+
+    .order-details-cart-items-container > div > span {
+        font: 100 4vw 'Roboto';
+    }
+
+}
