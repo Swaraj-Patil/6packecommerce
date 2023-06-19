@@ -8,8 +8,9 @@ Card Number: **4242 4242 4242 4242**
 Expiry Date: _Any future date, For Ex. **12/25**_  
 CVV: _Random three digits, For Ex. **123**_
 
-> - Note: If you're on a mobile browser and the payment gateway throws an error, please switch to desktop mode for the payment part and switch back to mobile mode once payment is done.
+> - Note: If you're on a mobile browser and the payment gateway throws an error, please switch to desktop mode for the payment part and switch back to mobile mode once payment is done.  
 
+![Wesbite Landing Page](https://res.cloudinary.com/dxy1ggsmd/image/upload/v1687177692/samples/spcommerce_vxdanl.png)
 
 # Implementation
 
