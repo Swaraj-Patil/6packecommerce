@@ -1,7 +1,7 @@
 # MERN E-COMMERCE WEBSITE
 ### [Live Site](https://6packecommerce.vercel.app/)
 
-# For placing an order, Please make use of the following credit card:
+For placing an order, Please make use of the following credit card:
 
 Card Number: 4242 4242 4242 4242
 
