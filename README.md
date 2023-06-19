@@ -1,9 +1,9 @@
 # MERN E-COMMERCE WEBSITE
 ### [Live Site](https://6packecommerce.vercel.app/)
-For placing an order, Please make use of the following credit card:
-Card Number: 4242 4242 4242 4242
-Expiry Date: _Any future date, For Ex. 12/25_
-CVV: _Random three digits, For Ex. 123_
+# For placing an order, Please make use of the following credit card:
+# Card Number: 4242 4242 4242 4242
+# Expiry Date: _Any future date, For Ex. 12/25_
+# CVV: _Random three digits, For Ex. 123_
 
 Hi! My name is **Swaraj Patil**, I have created this website to learn MERN Stack and it's a fake website.
 
