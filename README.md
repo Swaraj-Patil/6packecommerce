@@ -1,5 +1,5 @@
 # MERN E-COMMERCE WEBSITE
-### [Live Site](https://6packecommerce.vercel.app/)
+### [Live Site](https://spcommerce.vercel.app/)
 
 For placing an order, Please make use of the following credit card:
 
